@@ -5,3 +5,6 @@ here I learned:
   1. how to link Bootstrap to my work and utilize it for layout and responsiveness of the items
   2. used an animation from  Animation.CSS for the header.
   3. use Mailchimp as for the email addresses users enter 
+
+
+the page shows on the URL: https://ornitcg.github.io/startup/
